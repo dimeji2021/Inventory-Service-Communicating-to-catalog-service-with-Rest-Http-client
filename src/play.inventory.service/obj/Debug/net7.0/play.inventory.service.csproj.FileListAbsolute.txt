@@ -47,3 +47,10 @@ C:\Users\Kehinde Aregbesola\Desktop\microservice-project\play.inventory\src\play
 C:\Users\Kehinde Aregbesola\Desktop\microservice-project\play.inventory\src\play.inventory.service\bin\Debug\net7.0\Microsoft.Extensions.Http.Polly.dll
 C:\Users\Kehinde Aregbesola\Desktop\microservice-project\play.inventory\src\play.inventory.service\bin\Debug\net7.0\Polly.dll
 C:\Users\Kehinde Aregbesola\Desktop\microservice-project\play.inventory\src\play.inventory.service\bin\Debug\net7.0\Polly.Extensions.Http.dll
+C:\Users\Kehinde Aregbesola\Desktop\microservice-project\play.inventory\src\play.inventory.service\bin\Debug\net7.0\MassTransit.dll
+C:\Users\Kehinde Aregbesola\Desktop\microservice-project\play.inventory\src\play.inventory.service\bin\Debug\net7.0\MassTransit.Abstractions.dll
+C:\Users\Kehinde Aregbesola\Desktop\microservice-project\play.inventory\src\play.inventory.service\bin\Debug\net7.0\MassTransit.AspNetCoreIntegration.dll
+C:\Users\Kehinde Aregbesola\Desktop\microservice-project\play.inventory\src\play.inventory.service\bin\Debug\net7.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+C:\Users\Kehinde Aregbesola\Desktop\microservice-project\play.inventory\src\play.inventory.service\bin\Debug\net7.0\MassTransit.RabbitMqTransport.dll
+C:\Users\Kehinde Aregbesola\Desktop\microservice-project\play.inventory\src\play.inventory.service\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\Kehinde Aregbesola\Desktop\microservice-project\play.inventory\src\play.inventory.service\bin\Debug\net7.0\play.catalog.contracts.dll

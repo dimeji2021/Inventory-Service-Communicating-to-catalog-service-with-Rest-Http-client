@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kehinde Aregbesola\\Desktop\\microservice-project\\play.inventory\\src\\play.inventory.service\\play.inventory.service.csproj": {}
+    "c:\\Users\\Kehinde Aregbesola\\Desktop\\microservice-project\\play.inventory\\src\\play.inventory.service\\play.inventory.service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kehinde Aregbesola\\Desktop\\microservice-project\\play.inventory\\src\\play.inventory.service\\play.inventory.service.csproj": {
+    "c:\\Users\\Kehinde Aregbesola\\Desktop\\microservice-project\\play.inventory\\src\\play.inventory.service\\play.inventory.service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kehinde Aregbesola\\Desktop\\microservice-project\\play.inventory\\src\\play.inventory.service\\play.inventory.service.csproj",
+        "projectUniqueName": "c:\\Users\\Kehinde Aregbesola\\Desktop\\microservice-project\\play.inventory\\src\\play.inventory.service\\play.inventory.service.csproj",
         "projectName": "play.inventory.service",
-        "projectPath": "C:\\Users\\Kehinde Aregbesola\\Desktop\\microservice-project\\play.inventory\\src\\play.inventory.service\\play.inventory.service.csproj",
+        "projectPath": "c:\\Users\\Kehinde Aregbesola\\Desktop\\microservice-project\\play.inventory\\src\\play.inventory.service\\play.inventory.service.csproj",
         "packagesPath": "C:\\Users\\Kehinde Aregbesola\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kehinde Aregbesola\\Desktop\\microservice-project\\play.inventory\\src\\play.inventory.service\\obj\\",
+        "outputPath": "c:\\Users\\Kehinde Aregbesola\\Desktop\\microservice-project\\play.inventory\\src\\play.inventory.service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kehinde Aregbesola\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,9 +53,13 @@
               "target": "Package",
               "version": "[6.4.0, )"
             },
-            "play.common": {
+            "play.catalog.contracts": {
               "target": "Package",
               "version": "[1.0.0, )"
+            },
+            "play.common": {
+              "target": "Package",
+              "version": "[1.0.2, )"
             }
           },
           "imports": [
